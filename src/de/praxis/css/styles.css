@@ -1,0 +1,67 @@
+
+.root {
+    -fx-font-family: "Oswald";
+    -fx-background-color: #00aef2;
+}
+.label {
+    -fx-font-family: "Oswald";
+    -fx-font-size: 18px;
+
+
+}
+
+.button {
+    -fx-background-color: #1976D2;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-pref-width: 180px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 25px;
+    -fx-background-radius: 8px;
+    -fx-cursor: hand;
+    -fx-font-family: "Oswald";
+}
+
+.patienten-Btn {
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-pref-width: 150px;
+    -fx-margin: 10px 10px;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+    -fx-font-family: "Oswald";
+}
+.button:hover {
+    -fx-background-color: #1565C0;
+}
+
+.button:pressed {
+    -fx-background-color: #0D47A1;
+
+}
+
+
+.view-Box {
+    -fx-background-color: #F0F8FF;
+    -fx-border-color: #1976D2;
+    -fx-border-width: 1px;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+    -fx-padding: 20px;
+    -fx-alignment: center;
+}
+.text-field {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+
+ }
+ .dash-buttons {
+     -fx-background-color: #F0F8FF;
+     -fx-border-color: #1976D2;
+     -fx-border-width: 1px;
+     -fx-border-radius: 8px;
+     -fx-background-radius: 8px;
+     -fx-padding: 15px;
+     -fx-alignment: top-center;
+ }
+
